@@ -1,16 +1,22 @@
-## Hi there 👋
+ViniluR
+# Olá, meu nome é Vinícius Henrique 👋
 
-<!--
-**ViniluR/ViniluR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🔭 Atualmente trabalho no Centro de Soluções Aplicadas (CSA) como Desenvolvedor Web.
+- 🌱 Atualmente estudo <b>Python<b/> e <b>Wordpress<b/>.
 
-Here are some ideas to get you started:
+## Skills
+<div>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="figma"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="figma"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+<div>
+  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=lucasbrito0611&show_icons=true&theme=dark"/>
+  <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito0611&layout=donut&theme=dark"/>
+</div>
